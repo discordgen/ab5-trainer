@@ -1,3 +1,4 @@
+# WORK IN PROGRESS - NOT SUITABLE FOR EVERY USE
 first run the scraper you will get folders in `data/img`       
 copy the folders to `images` folder                    
 then run `dataset maker.py` (dont forget to make `other` folder if it not in `dataset` folder also add your nocaptchaai key)           
